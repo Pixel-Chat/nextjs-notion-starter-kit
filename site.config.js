@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Pixel Chat Docs',
+  name: 'Pixel Chat API Docs',
   domain: 'docs.pixelchat.tv',
   author: 'ACPixel',
 
